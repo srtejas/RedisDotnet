@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "RedisOnDotnet6Demo": {
+    "RedisDotnet": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
